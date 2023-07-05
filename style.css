@@ -1,4 +1,17 @@
 .Book{
     border:20px solid ;
     background-color: blueviolet;
+    text-align: center;
+    margin: 50px;
+}
+.Dark{
+    border: 10px solid tomato;
+     background-color: aqua;
+     margin: 220px;
+     text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-size-adjust: 100px;
 }
